@@ -1,0 +1,8 @@
+{
+    "testEnvironment": "jest-environment-jsdom",
+    "extensionsToTreatAsEsm": [".tsx"],
+    "moduleDirectories": [
+        "node_modules"
+    ]
+}
+
